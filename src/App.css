@@ -3,11 +3,11 @@
   box-sizing: border-box;
 }
 body{
-  background-color: #d6d2d24b;
+  background-color: #87f1e0;
 }
 
 .container {
-  background-color: #f0bfbf70;
+  background-color: #87f1e0;
   max-width: 1000px;
   min-height: 100vh;
   margin: 30px auto;
@@ -43,8 +43,8 @@ input:focus {
   border-top-right-radius: 10px;
   cursor: pointer;
   border: 4px;
-  color: rgb(51, 43, 43);
-  background-color: #c4525248;
+  color: rgb(255, 255, 255);
+  background-color: #7c7c7c;
 }
 
 .recipes {
@@ -57,7 +57,7 @@ input:focus {
 
 .card {
   width: 200px;
-  background-color: rgba(209, 176, 176, 0.301);
+  background-color: rgba(255, 255, 255, 0.158);
   margin: 10px;
   border-radius: 5px;
   padding-bottom: 10px;
@@ -73,11 +73,11 @@ input:focus {
 }
 
 .category {
-  color: #584b4b;
+  color: #3a3939;
 }
 
 a {
-  background-color: #c967622c;
+  background-color: rgba(41, 41, 41, 0.356);
   color: inherit;
   padding: 10px;
   border-radius: 10px;
